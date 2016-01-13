@@ -57,4 +57,6 @@ Note: preference can be one of OPEN_CAMERA or OPEN_MEDIA or left empty, based on
         }
     }
 ```
+- ScanDemoWorkingEclips is a version for eclips. you just need to import it as Android Project and the project will run. the small changes i have done is the color for edge detection and on result_scan activity i have automatically calling Magic gray scale change method and i have put openCV-3..
+
 - **IMPORTANT:** This project uses the OPENCV Framework. Download the newest version here 'http://opencv.org/.
